@@ -1,9 +1,7 @@
 # Microcontroladores
 UFS/DEL/ELET0077/2020.1/TURMA_01(246M12)
 
-Alunos:
-  Francisco Dórea
-  Marcos Aurélio
+Alunos:  Francisco Dórea e Marcos Aurélio
 
 Documentação e códigos dos laboratórios da disciplina de Microcontroladores.
 
